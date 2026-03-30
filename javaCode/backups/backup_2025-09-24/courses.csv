@@ -1,0 +1,3 @@
+CourseCode,CourseName,Description,Credits,Department,Instructor,Status,Prerequisites
+CS101,Introduction to Programming,Basic programming concepts and Java fundamentals,3,Computer Science,Dr. Smith,Active,
+MATH101,Calculus I,Differential and integral calculus,4,Mathematics,Dr. Johnson,Active,

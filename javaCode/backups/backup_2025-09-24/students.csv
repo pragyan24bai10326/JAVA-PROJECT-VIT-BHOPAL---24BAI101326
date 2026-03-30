@@ -1,0 +1,3 @@
+StudentID,FirstName,LastName,Email,PhoneNumber,Address,DateOfBirth,EnrollmentDate,Status
+STU001,John,Doe,john.doe@university.edu,(555) 123-4567,"123 Main St, City, State",2000-01-15,2024-01-15,Active
+STU002,Jane,Smith,jane.smith@university.edu,(555) 987-6543,"456 Oak Ave, City, State",2001-03-22,2024-01-15,Active
